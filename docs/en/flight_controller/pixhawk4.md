@@ -53,7 +53,7 @@ Additional information can be found in the [Pixhawk 4 Technical Data Sheet](http
 
 ## PWM Outputs {#pwm_outputs}
 
-This flight controller supports up to 11 FMU PWM outputs (AUX) and 8 IO PWM outputs (MAIN).
+This flight controller supports up to 8 FMU PWM outputs (AUX) and 8 IO PWM outputs (MAIN).
 
 FMU Outputs:
 
